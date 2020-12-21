@@ -1,4 +1,4 @@
-# Uninode Suite
+# Uninode® Suite
 
 Uninode Suite is a framework, consisting of these parts
 * **Uninode®** is a framework for type definitions
@@ -7,7 +7,7 @@ Uninode Suite is a framework, consisting of these parts
 * **Nodelab** is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions  
 
-Uninode Suite is currently a proprietary framework, owned by 
+Uninode® Suite is currently a proprietary framework, owned by 
 <a href="http://www.demagic.com" target="_blank">Demagic AB</a>, and used in various 
 Spring, Angular and iOS projects.
 
