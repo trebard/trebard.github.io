@@ -1,9 +1,9 @@
 # Uninode® Suite
 
-Uninode Suite is a framework, consisting of these parts
-* **Uninode®** is a framework for type definitions
+Uninode Suite consists of these parts
+* **Uninode®** is a framework for global type definitions and object identities, like Unicode for objects
 * **Edgescript®** is a general purpose scripting language, integrated with Uninode®
-* **UNQL** is a Uninode Query Language, for querying data sources using Uninode® and Edgescript®
+* **UNQL** is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®
 * **Nodelab** is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions
 * **Intentics** is AI software for intention analytics
