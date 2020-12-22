@@ -3,7 +3,7 @@
 Uninode Suite is a framework, consisting of these parts
 * **Uninode®** is a framework for type definitions
 * **Edgescript®** is a general purpose scripting language, integrated with Uninode®
-* **UNQL** is a Uninode Query Language, for querying servers using Uninode® and Edgescript®
+* **UNQL** is a Uninode Query Language, for querying data sources using Uninode® and Edgescript®
 * **Nodelab** is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions
 * **Net Daler** is a special purpose currency
