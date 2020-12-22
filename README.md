@@ -1,6 +1,6 @@
 # Uninode® Suite
 
-Uninode Suite consists of these parts
+Uninode® Suite consists of these parts
 * **Uninode®** is a framework for global type definitions and object identities, like Unicode for objects
 * **Edgescript®** is a general purpose scripting language, integrated with Uninode®
 * **UNQL** is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®
