@@ -6,8 +6,8 @@ Uninode® Suite consists of these parts
 * **UNQL** is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®
 * **Nodelab** is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions
-* **Intentics** is AI software for intention analytics
-* **Attentics** is AI software for attention analytics
+* **Attentics** is the study of and AI software for attention analytics
+* **Intentics** is the study of and AI software for intention analytics
 * **Net Daler** is a special purpose currency
 
 Uninode® Suite is currently a proprietary framework, owned by 
