@@ -31,6 +31,6 @@ Associated domains include
 <a href="https://nodelab.com" target="_blank">nodelab.com</a>,
 <a href="https://nodelab.net" target="_blank">nodelab.net</a>,
 <a href="https://unizone.org" target="_blank">unizone.org</a>,
-<a href="https://intentics.com" target="_blank">intentics.com</a>,
-<a href="https://attentics.com" target="_blank">attentics.com</a> and
+<a href="https://attentics.com" target="_blank">attentics.com</a>,
+<a href="https://intentics.com" target="_blank">intentics.com</a> and
 <a href="https://www.daler.net" target="_blank">daler.net</a>
