@@ -6,9 +6,9 @@ Uninode® Suite consists of these parts
 * **UNQL** is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®
 * **Nodelab** is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions
-* **Studiolab®** is patented music composing software, integrated with Uninode® and Edgescript®
 * **Attentics** is the study of and AI analytics software for attention
 * **Intentics** is the study of and AI analytics software for intention
+* **Studiolab®** is patented music composing software, integrated with Uninode®, Edgescript® and Intentics
 * **Net Daler** is a special purpose currency
 
 Uninode® Suite is currently a proprietary framework, owned by 
@@ -33,7 +33,7 @@ Associated domains include
 <a href="https://nodelab.com" target="_blank">nodelab.com</a>,
 <a href="https://nodelab.net" target="_blank">nodelab.net</a>,
 <a href="https://unizone.org" target="_blank">unizone.org</a>,
-<a href="https://studiolab.eu" target="_blank">studiolab.eu</a>,
 <a href="https://attentics.com" target="_blank">attentics.com</a>,
 <a href="https://intentics.com" target="_blank">intentics.com</a> and
+<a href="https://studiolab.eu" target="_blank">studiolab.eu</a>,
 <a href="https://www.daler.net" target="_blank">daler.net</a>
