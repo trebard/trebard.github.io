@@ -9,7 +9,7 @@ Uninode® Suite consists of these parts
 * **Powerpilot** is software for financial analysis, based on Nodelab
 * **Attentics** is the study of and AI analytics software for attention
 * **Intentics** is the study of and AI analytics software for intention
-* **Studiolab®** is <a href="https://patents.google.com/patent/US8759658B2/en">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics
+* **Studiolab®** is <a href="https://patents.google.com/patent/US8759658B2/en" target="_blank">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics
 * **Net Daler** is a special purpose currency
 
 Uninode® Suite is currently a proprietary framework, owned by 
