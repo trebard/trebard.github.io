@@ -14,7 +14,7 @@ Uninode® Suite consists of these parts
 
 Uninode® Suite is currently a proprietary framework, owned by 
 <a href="http://www.demagic.com" target="_blank">Demagic AB</a>, and used in various 
-Spring, Angular and iOS projects.
+Java, Javascript and iOS projects.
 
 <a href="https://trademarks.justia.com/780/37/uninode-78037205.html" target="_blank">Uninode®</a>,
 <a href="https://trademarks.justia.com/858/04/edgescript-85804038.html" target="_blank">Edgescript®</a> and
