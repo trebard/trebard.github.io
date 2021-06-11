@@ -1,3 +1,5 @@
+<img src="uninode1000.png?raw=true" alt="Uninode logotype" width="120"/>
+
 # Uninode® Suite
 
 Uninode® Suite consists of these parts
