@@ -1,4 +1,4 @@
-<img src="uninode1000.png?raw=true" alt="Uninode logotype" width="120"/>
+<img src="uninode400.png?raw=true" alt="Uninode logotype" width="120"/>
 
 # Uninode® Suite
 
