@@ -23,11 +23,11 @@ Uninode® Suite consists of these parts
     <td><img src="studiolab.png?raw=true" alt="UNQL logotype" height="100"/></td>
   </tr>
     <tr>
-    <td>Uninode</td>
+    <td>Uninode®</td>
     <td>UNQL</td>
-    <td>Edgescript</td>
+    <td>Edgescript®</td>
     <td>Nodelab</td>
-    <td>Studiolab</td>
+    <td>Studiolab®</td>
   </tr>
 </table>
 
