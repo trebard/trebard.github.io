@@ -14,8 +14,16 @@ Uninode® Suite consists of these parts
 * **Studiolab®** is <a href="https://patents.google.com/patent/US9378718B1/en" target="_blank">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics
 * **Net Daler** is a special purpose currency
 
-| <img src="uninode400.png?raw=true" alt="Uninode logotype" width="100"/> | <img src="unql362.png?raw=true" alt="UNQL logotype" width="100"/> |
-| Uninode | UNQL |
+<table>
+  <tr>
+    <td><img src="uninode400.png?raw=true" alt="Uninode logotype" height="60"/></td>
+    <td><img src="unql362.png?raw=true" alt="UNQL logotype" height="60"/></td>
+  </tr>
+    <tr>
+    <td>Uninode</td>
+    <td>UNQL</td>
+  </tr>
+</table>
 
 Uninode® Suite is currently a proprietary framework, owned by 
 <a href="http://www.demagic.com" target="_blank">Demagic AB</a>, and used in various 
