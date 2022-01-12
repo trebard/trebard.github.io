@@ -17,15 +17,15 @@ Uninode® Suite consists of these parts
 <table>
   <tr>
     <td><img src="uninode400.png?raw=true" alt="Uninode logotype" height="100"/></td>
-    <td><img src="unql.png?raw=true" alt="UNQL logotype" height="100"/></td>
     <td><img src="edgescript.png?raw=true" alt="UNQL logotype" height="100"/></td>
+    <td><img src="unql.png?raw=true" alt="UNQL logotype" height="100"/></td>
     <td><img src="nodelab.png?raw=true" alt="UNQL logotype" height="100"/></td>
     <td><img src="studiolab.png?raw=true" alt="UNQL logotype" height="100"/></td>
   </tr>
     <tr>
     <td>Uninode®</td>
-    <td>UNQL</td>
     <td>Edgescript®</td>
+    <td>UNQL</td>
     <td>Nodelab</td>
     <td>Studiolab®</td>
   </tr>
