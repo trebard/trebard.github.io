@@ -3,15 +3,15 @@
 # Uninode® Suite
 
 Uninode® Suite consists of these parts
-* <div><img src="uninode400sq.png" alt="Uninode logotype" height="32" width="32" align="right"/><strong>Uninode®</strong> is a framework for global type definitions and object identities, like Unicode for objects.</div>
-* <div><img src="edgescript400sq.png" alt="Edgescript logotype" height="32" width="32" align="right"/><strong>Edgescript®</strong> is a general purpose scripting language, integrated with Uninode®.</div>
-* <div><img src="unql400sq.png" alt="UNQL logotype" height="32" width="32" align="right"/><strong>UNQL</strong> is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®.</div>
-* <div><img src="nodelab400sq.png" alt="Nodelab logotype" height="32" width="32" align="right"/><strong>Nodelab</strong> is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL.</div>
+* <div><img src="uninode400sq.png" alt="Uninode logotype" height="28" width="28" align="right"/><strong>Uninode®</strong> is a framework for global type definitions and object identities, like Unicode for objects.</div>
+* <div><img src="edgescript400sq.png" alt="Edgescript logotype" height="28" width="28" align="right"/><strong>Edgescript®</strong> is a general purpose scripting language, integrated with Uninode®.</div>
+* <div><img src="unql400sq.png" alt="UNQL logotype" height="28" width="28" align="right"/><strong>UNQL</strong> is Uninode® Query Language, for querying data sources using Uninode® and Edgescript®.</div>
+* <div><img src="nodelab400sq.png" alt="Nodelab logotype" height="28" width="28" align="right"/><strong>Nodelab</strong> is a client and server framework for visualization and analysis, using Uninode®, Edgescript® and UNQL.</div>
 * **Unizone** is a set of standard Uninode® and Edgescript® definitions.
 * **Powerpilot** is software for financial analysis, based on Nodelab.
 * **Attentics** is the study of and AI analytics software for attention.
 * **Intentics** is the study of and AI analytics software for intention.
-* <div><img src="studiolab400sq.png" alt="Studiolab logotype" height="32" width="32" align="right"/><strong>Studiolab®</strong> is <a href="https://patents.google.com/patent/US9378718B1/en" target="_blank">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics.</div>
+* <div><img src="studiolab400sq.png" alt="Studiolab logotype" height="28" width="28" align="right"/><strong>Studiolab®</strong> is <a href="https://patents.google.com/patent/US9378718B1/en" target="_blank">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics.</div>
 * **Net Daler** is a special purpose currency.
 
 Uninode® Suite is currently a proprietary framework, owned by 
