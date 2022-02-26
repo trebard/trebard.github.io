@@ -12,7 +12,7 @@ Uninode® Suite consists of these parts
 * **Attentics** is the study of and AI analytics software for attention.
 * **Intentics** is the study of and AI analytics software for intention.
 * <div><img src="studiolab400sq.png" alt="Studiolab logotype" height="28" width="28" align="right"/><strong>Studiolab®</strong> is <a href="https://patents.google.com/patent/US9378718B1/en" target="_blank">patented</a> music composing software, integrated with Uninode®, Edgescript® and Intentics.</div>
-* **Net Daler** is a special purpose currency.
+* <div><img src="netdaler400sq.png" alt="Net Daler logotype" height="28" width="28" align="right"/><strong>Net Daler</strong> is a special purpose currency.</div>
 
 Uninode® Suite is currently a proprietary framework, owned by 
 <a href="http://www.demagic.com" target="_blank">Demagic AB</a>, and used in various 
